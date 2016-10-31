@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="appIcon">
+        <item >a</item>
+        <item >b</item>
+        <item >c</item>
+        <item >d</item>
+        <item >e</item>
+        <item >f</item>
+        <item >g</item>
+    </string-array>
+    
+    <string-array name="appName">
+        <item >汉风西游</item>
+        <item >刀塔传奇</item>
+        <item >圣斗士星矢</item>
+        <item >大话西游</item>
+        <item >天天酷跑</item>
+        <item >我叫MT</item>
+        <item >功夫熊猫</item>
+    </string-array>
+    
+    <string-array name="appCount">
+        <item >1234万次</item>
+        <item >1254万次</item>
+        <item >886万次</item>
+        <item >134万次</item>
+        <item >524万次</item>
+        <item >534万次</item>
+        <item >834万次</item>
+    </string-array>
+</resources>
